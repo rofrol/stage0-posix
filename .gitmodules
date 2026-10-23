@@ -1,12 +1,12 @@
 [submodule "M2-Planet"]
 	path = M2-Planet
-	url = https://github.com/oriansj/M2-Planet.git
+	url = https://github.com/rofrol/M2-Planet.git
 [submodule "mescc-tools"]
 	path = mescc-tools
 	url = https://git.savannah.nongnu.org/git/mescc-tools.git
 [submodule "bootstrap-seeds"]
 	path = bootstrap-seeds
-	url = https://github.com/oriansj/bootstrap-seeds
+	url = https://github.com/rofrol/bootstrap-seeds
 [submodule "M2libc"]
 	path = M2libc
 	url = https://github.com/oriansj/M2libc
@@ -24,7 +24,7 @@
 	url = https://github.com/oriansj/stage0-posix-amd64.git
 [submodule "AArch64"]
 	path = AArch64
-	url = https://github.com/oriansj/stage0-posix-aarch64.git
+	url = https://github.com/rofrol/stage0-posix-aarch64.git
 [submodule "armv7l"]
 	path = armv7l
 	url = https://github.com/oriansj/stage0-posix-armv7l.git
