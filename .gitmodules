@@ -9,7 +9,7 @@
 	url = https://github.com/rofrol/bootstrap-seeds
 [submodule "M2libc"]
 	path = M2libc
-	url = https://github.com/oriansj/M2libc
+	url = https://github.com/rofrol/M2libc
 [submodule "mescc-tools-extra"]
 	path = mescc-tools-extra
 	url = https://github.com/oriansj/mescc-tools-extra
